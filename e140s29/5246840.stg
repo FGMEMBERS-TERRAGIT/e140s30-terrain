@@ -1,0 +1,5 @@
+OBJECT_BASE 5246840.btg
+OBJECT YOOM.btg
+OBJECT_SHARED Models/Airport/windsock.xml 140.202723 -28.103717 38.4 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 140.192416 -28.093874 45.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 140.196763 -28.100302 41.7 0.00

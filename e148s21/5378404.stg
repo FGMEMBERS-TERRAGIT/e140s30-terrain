@@ -1,0 +1,6 @@
+OBJECT_BASE 5378404.btg
+OBJECT YBPN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 148.555358 -20.492399 21.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 148.560591 -20.498859 18.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 148.545914 -20.489674 18.6 0.00
+OBJECT_SIGN {@Y,^l}A{^r,@@,@L}A{@Y}B{^r} 148.551513 -20.491836 20.9 137.57 2
